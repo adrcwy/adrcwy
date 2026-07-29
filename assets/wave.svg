@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 26" width="1000" height="26" fill="none">
+  <g fill="#30363d">
+    <rect x="0"   y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;16;4" dur="1.5s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="y" values="11;5;11" dur="1.5s" begin="0.00s" repeatCount="indefinite"/></rect>
+    <rect x="14"  y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;20;4" dur="1.5s" begin="0.07s" repeatCount="indefinite"/><animate attributeName="y" values="11;3;11" dur="1.5s" begin="0.07s" repeatCount="indefinite"/></rect>
+    <rect x="28"  y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;12;4" dur="1.5s" begin="0.14s" repeatCount="indefinite"/><animate attributeName="y" values="11;7;11" dur="1.5s" begin="0.14s" repeatCount="indefinite"/></rect>
+    <rect x="42"  y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;18;4" dur="1.5s" begin="0.21s" repeatCount="indefinite"/><animate attributeName="y" values="11;4;11" dur="1.5s" begin="0.21s" repeatCount="indefinite"/></rect>
+    <rect x="56"  y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;10;4" dur="1.5s" begin="0.28s" repeatCount="indefinite"/><animate attributeName="y" values="11;8;11" dur="1.5s" begin="0.28s" repeatCount="indefinite"/></rect>
+    <rect x="70"  y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;22;4" dur="1.5s" begin="0.35s" repeatCount="indefinite"/><animate attributeName="y" values="11;2;11" dur="1.5s" begin="0.35s" repeatCount="indefinite"/></rect>
+    <rect x="84"  y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;14;4" dur="1.5s" begin="0.42s" repeatCount="indefinite"/><animate attributeName="y" values="11;6;11" dur="1.5s" begin="0.42s" repeatCount="indefinite"/></rect>
+    <rect x="98"  y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;17;4" dur="1.5s" begin="0.49s" repeatCount="indefinite"/><animate attributeName="y" values="11;5;11" dur="1.5s" begin="0.49s" repeatCount="indefinite"/></rect>
+    <rect x="112" y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;9;4"  dur="1.5s" begin="0.56s" repeatCount="indefinite"/><animate attributeName="y" values="11;9;11" dur="1.5s" begin="0.56s" repeatCount="indefinite"/></rect>
+    <rect x="126" y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;19;4" dur="1.5s" begin="0.63s" repeatCount="indefinite"/><animate attributeName="y" values="11;4;11" dur="1.5s" begin="0.63s" repeatCount="indefinite"/></rect>
+    <rect x="140" y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;13;4" dur="1.5s" begin="0.70s" repeatCount="indefinite"/><animate attributeName="y" values="11;7;11" dur="1.5s" begin="0.70s" repeatCount="indefinite"/></rect>
+    <rect x="154" y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;21;4" dur="1.5s" begin="0.77s" repeatCount="indefinite"/><animate attributeName="y" values="11;3;11" dur="1.5s" begin="0.77s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <g fill="#58a6ff" opacity=".85">
+    <rect x="168" y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;16;4" dur="1.5s" begin="0.84s" repeatCount="indefinite"/><animate attributeName="y" values="11;5;11" dur="1.5s" begin="0.84s" repeatCount="indefinite"/></rect>
+    <rect x="182" y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;11;4" dur="1.5s" begin="0.91s" repeatCount="indefinite"/><animate attributeName="y" values="11;8;11" dur="1.5s" begin="0.91s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <!-- the bar field repeats itself across the full width -->
+  <use href="#" />
+  <g fill="#30363d">
+    <rect x="196" y="12" width="804" height="1.4" rx="0.7" opacity=".55" />
+  </g>
+  <g fill="#58a6ff">
+    <rect y="11" width="38" height="3" rx="1.5" opacity=".9">
+      <animate attributeName="x" values="196;962;196" dur="8s" repeatCount="indefinite" />
+    </rect>
+  </g>
+  <g fill="#c9d1d9">
+    <circle cy="12.5" r="2.2">
+      <animate attributeName="cx" values="196;1000;196" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
