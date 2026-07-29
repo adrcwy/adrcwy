@@ -1,188 +1,300 @@
-<!-- HEADER: banner gradasi animasi -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF1493,100:00E5FF&height=190&section=header&text=Adrian%20Wahyu%20Septianto&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Custom%20System%20by%20Request&descAlignY=57&descSize=16&animation=fadeIn" width="100%" />
-</p>
+<!--=====================  HEADER  =====================-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FF1493,35:8A2BE2,70:00E5FF,100:39FF14&text=adrian%20wahyu%20septianto&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=%E2%9A%A1%20full%20stack%20developer%20%E2%80%A2%20custom%20system%20by%20request%20%E2%80%A2%20surabaya%20id&descAlignY=52&descSize=15&animation=fadeIn&stroke=00E5FF&strokeWidth=0" />
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <a href="https://adrianwahyuseptianto.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=FF1493&center=true&vCenter=true&width=750&lines=%3E+whoami+%3A+adrian_wahyu_septianto;%3E+based+in+Surabaya%2C+Indonesia;%3E+backend+logic+%2B+interface+yang+enak+dipakai;%3E+status+%3A+available+for+custom+systems" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-8A2BE2?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/BASED-Surabaya%2C%20ID-FF1493?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/STATUS-Open%20for%20Work-00E5FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://komarev.com/ghpvc/?username=adrcwy&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
-</p>
+<!--=====================  TYPING  =====================-->
+<a href="https://adrianwahyuseptianto.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2800&pause=600&color=FF1493&background=00000000&center=true&vCenter=true&width=800&height=45&lines=%E2%96%B8+SYSTEM+BY+REQUEST%2C+BUILT+TO+LAST;%E2%96%B8+BACKEND+LOGIC+%2B+INTERFACE+YANG+WARAS;%E2%96%B8+DASHBOARD+%C2%B7+AUTOMATION+%C2%B7+SCRAPER+%C2%B7+BOT;%E2%96%B8+STATUS%3A+OPEN+FOR+CUSTOM+SYSTEMS" alt="typing" />
+</a>
 
-<p align="center">
-  <a href="https://adrianwahyuseptianto.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:adrianwahyuseptianto1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/adrian-wahyu-septianto"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/adrcwy"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/DISCORD-%40adrcwy-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
+<!--=====================  NEON DIVIDER  =====================-->
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" height="5" />
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="4" />
+<!--=====================  LIVE BADGES  =====================-->
+<a href="https://adrianwahyuseptianto.vercel.app"><img src="https://custom-icon-badges.demolab.com/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=globe&logoColor=00E5FF&labelColor=0D1117" /></a>
+<a href="https://github.com/adrcwy?tab=repositories"><img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&logoColor=FFD700&color=0D1117&labelColor=0D1117&label=STARS&style=for-the-badge&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fadrcwy" /></a>
+<a href="https://github.com/adrcwy?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/adrcwy?style=for-the-badge&logo=person-add&logoColor=FF1493&color=0D1117&labelColor=0D1117&label=FOLLOWERS" /></a>
+<img src="https://komarev.com/ghpvc/?username=adrcwy&style=for-the-badge&color=8A2BE2&label=VISITORS" />
 
-## /01 tentang
+</div>
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Dev%20GIFs/coding.gif" />
+<!--=====================  BOOT SEQUENCE (ASCII, warna dari diff)  =====================-->
+<div align="center">
 
-Programmer asal **Surabaya** yang fokus membangun **custom program by request** — dari backend logic sampai interface yang tidak bikin operator tersesat.
+```diff
+@@                    ~/adrcwy $ ./boot --profile                    @@
++ [ OK ]  identity ............  adrian wahyu septianto  ( adrc )
++ [ OK ]  role ................  full stack developer
++ [ OK ]  location ............  surabaya, indonesia  ( GMT+7 )
++ [ OK ]  experience ..........  1 year  ·  self-directed engineering
++ [ OK ]  specialty ...........  custom program by request
++ [ OK ]  ships ...............  dashboard · automation · scraper · bot · web · mobile
+! [INFO]  languages ...........  bahasa indonesia  /  english
+! [INFO]  open to .............  remote  ·  hybrid  ·  freelance
+- [WARN]  free time ...........  not found (busy shipping)
+@@             status: AVAILABLE FOR CUSTOM SYSTEMS  ✦  inbox open             @@
+```
 
-<pre>
-const adrian = {
-  role:    "Full Stack Developer",
-  based:   "Surabaya, ID",
-  exp:     "1 year",
-  focus:   "System by request",
-  builds:  ["admin dashboard", "automation", "scraper", "bot", "mobile app", "web"],
-  langs:   ["Bahasa Indonesia", "English"],
-  openTo:  ["Remote", "Hybrid"],
-  status:  "available for custom systems",
-};
-</pre>
+</div>
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" height="5" />
+</div>
+
+<!--=====================  ABOUT  =====================-->
+<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Dev%20GIFs/coding.gif" />
+
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28" /> &nbsp;`01` &nbsp;siapa saya
+
+Saya bikin **custom software** di titik temu antara kebutuhan lapangan, backend logic, dan interface yang **tidak bikin operator tersesat**.
+
+Bukan sekadar "bisa jalan" — tapi rapi, aman di-deploy, dan enak dipakai orang yang bukan programmer.
+
+> [!TIP]
+> Butuh system yang belum ada di pasaran? Itu justru bagian favorit saya.<br>
+> **Ceritakan alurnya, saya yang terjemahkan jadi software.**
+
+<details>
+<summary><b>&nbsp;🧠&nbsp; Cara saya kerja &nbsp;(klik untuk buka)</b></summary>
+<br>
+
+| Tahap | Yang saya lakukan |
+|:--|:--|
+| **01 · Dengar** | Pahami alur kerja nyata di lapangan, bukan asumsi |
+| **02 · Rancang** | Susun data model + alur yang paling sedikit langkahnya |
+| **03 · Bangun** | Backend dulu yang solid, lalu interface yang jelas |
+| **04 · Deploy** | Secure headers, log bersih, export aman, siap dipakai |
+| **05 · Rawat** | Iterasi kecil berdasarkan feedback operator |
+
+</details>
 
 <br clear="right" />
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="4" />
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" height="5" />
+</div>
 
-## /02 stack &amp; tools
+<!--=====================  STACK  =====================-->
+### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28" /> &nbsp;`02` &nbsp;senjata harian
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,mysql,lua&theme=dark" />
-</p>
+<div align="center">
 
-<p align="center"><b>Frameworks</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,laravel,express,tailwind&theme=dark" />
-</p>
+<table>
+<tr>
+<td align="center" width="25%"><b>◆ LANGUAGES</b><br><br>
+<img src="https://skillicons.dev/icons?i=js,ts,php&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=mysql,lua&theme=dark" />
+</td>
+<td align="center" width="25%"><b>◆ FRAMEWORKS</b><br><br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,laravel&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=express,tailwind&theme=dark" />
+</td>
+<td align="center" width="25%"><b>◆ INFRA &amp; DATA</b><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,sqlite,mongodb&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=firebase,socketio&theme=dark" />
+</td>
+<td align="center" width="25%"><b>◆ CRAFT</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,linux,vercel&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" />
+</td>
+</tr>
+</table>
 
-<p align="center"><b>Infra &amp; Data</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,mongodb,firebase,nodejs,socketio,linux&theme=dark" />
-</p>
+<img src="https://img.shields.io/badge/EXPO-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/DISCORD.JS-5865F2?style=flat-square&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/WHATSAPP%20AUTOMATION-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/WEB%20SCRAPING-FF1493?style=flat-square&logo=searxng&logoColor=white" />
+<img src="https://img.shields.io/badge/GEPHI%20%2F%20SNA-8A2BE2?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/EXCEL%20EXPORT-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 
-<p align="center"><b>Tools &amp; Craft</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark" />
-</p>
+</div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="4" />
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" height="5" />
+</div>
 
-## /03 project pilihan
+<!--=====================  PROJECTS  =====================-->
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;`03` &nbsp;yang sudah saya kirim
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Company Office Suite
-Mobile app + web admin untuk workflow kantor, laporan, QR utilities, maps, export, dan sync.
+#### 🏢 &nbsp;Company Office Suite
+> Mobile app + web admin untuk workflow kantor: laporan, QR utilities, maps, export, sync.
 
-`EXPO` `REACT` `EXPRESS` `SQLITE`
-
-</td>
-<td width="50%" valign="top">
-
-### Company Tools Hub
-Node.js tools hub untuk procurement snapshot, sales log, automation WhatsApp, dan scheduled jobs.
-
-`NODE` `SOCKET.IO` `AUTOMATION` `EXPORT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Twitter SNA Scraper
-Crawler + dashboard Social Network Analysis: nodes, edges, raw tweets, CSV siap Gephi.
-
-`NODE` `EXPRESS` `CSV` `GEPHI`
+![](https://img.shields.io/badge/-EXPO-000020?style=flat-square&logo=expo&logoColor=white)
+![](https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=black)
+![](https://img.shields.io/badge/-EXPRESS-000000?style=flat-square&logo=express)
+![](https://img.shields.io/badge/-SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### Auto Store v2
-Discord commerce bot: slash command, balance flow, stok produk, webhook topup, web admin.
+#### 🧰 &nbsp;Company Tools Hub
+> Node.js hub: procurement snapshot, sales log, automation WhatsApp, scheduled jobs.
 
-`DISCORD.JS` `EXPRESS` `SQL.JS` `MONGODB`
+![](https://img.shields.io/badge/-NODE-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/-SOCKET.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![](https://img.shields.io/badge/-CRON-FF1493?style=flat-square&logo=clockify&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Company Website
-Platform company Laravel dengan secure headers, sitemap utilities, crawler package, Vite assets.
+#### 🕸️ &nbsp;Twitter SNA Scraper
+> Crawler + dashboard Social Network Analysis: nodes, edges, raw tweets, CSV siap Gephi.
 
-`LARAVEL` `PHP` `TAILWIND` `VITE`
+![](https://img.shields.io/badge/-NODE-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/-EXPRESS-000000?style=flat-square&logo=express)
+![](https://img.shields.io/badge/-GEPHI-8A2BE2?style=flat-square&logo=graphql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### Proxy Seller Panel
-VPS tooling &amp; dashboard prototype untuk provisioning, monitoring, dan maintenance node proxy.
+#### 🤖 &nbsp;Auto Store v2
+> Discord commerce bot: slash command, balance flow, stok produk, webhook topup, web admin.
 
-`NODE` `LINUX` `SHELL` `DASHBOARD`
+![](https://img.shields.io/badge/-DISCORD.JS-5865F2?style=flat-square&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/-MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-WEBHOOK-00E5FF?style=flat-square&logo=webhooks&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 &nbsp;Company Website
+> Platform Laravel: secure headers, sitemap utilities, crawler package, Vite assets.
+
+![](https://img.shields.io/badge/-LARAVEL-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![](https://img.shields.io/badge/-TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛰️ &nbsp;Proxy Seller Panel
+> VPS tooling &amp; dashboard: provisioning, monitoring, maintenance node proxy.
+
+![](https://img.shields.io/badge/-LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/-SHELL-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/-VPS-39FF14?style=flat-square&logo=digitalocean&logoColor=black)
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://adrianwahyuseptianto.vercel.app"><img src="https://img.shields.io/badge/LIHAT%20SEMUA%20DEMO-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<a href="https://github.com/adrcwy/developer-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrcwy&repo=developer-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00E5FF&text_color=C9D1D9" />
+</a>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="4" />
+<br><br>
 
-## /04 sedang berjalan
+<a href="https://adrianwahyuseptianto.vercel.app"><img src="https://capsule-render.vercel.app/api?type=rect&height=42&color=0:FF1493,100:8A2BE2&text=%E2%96%B6%20LIHAT%20SEMUA%20DEMO%20LANGSUNG&fontSize=17&fontColor=ffffff&fontAlignY=58&width=420" /></a>
 
-- Merapikan office automation: dashboard, alur WhatsApp, export Excel
-- Memperdalam deployment, SEO, dan penataan repository publik
-- Menjaga internal tools by request untuk laporan, monitoring, workflow harian
-- Meningkatkan pipeline scraper &amp; automation: log lebih bersih, export lebih aman
+</div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="4" />
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" height="5" />
+</div>
 
-## /05 github stats
+<!--=====================  NOW  =====================-->
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> &nbsp;`04` &nbsp;sedang berjalan
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adrcwy&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=00E5FF&text_color=C9D1D9&bg_color=0D1117" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrcwy&layout=compact&hide_border=true&title_color=FF1493&text_color=C9D1D9&bg_color=0D1117" />
-</p>
+```yaml
+now:
+  - task: office automation      # dashboard · alur WhatsApp · export Excel
+    progress: "████████░░  80%"
+  - task: deployment & SEO       # memperdalam praktik rilis + repo publik yang rapi
+    progress: "██████░░░░  60%"
+  - task: internal tools         # laporan · monitoring · workflow harian kantor
+    progress: "███████░░░  70%"
+  - task: scraper pipeline       # log lebih bersih · export lebih aman
+    progress: "█████░░░░░  50%"
+```
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=adrcwy&hide_border=true&background=0D1117&stroke=8A2BE2&ring=FF1493&fire=00E5FF&currStreakLabel=FF1493&sideLabels=C9D1D9&dates=8B949E" />
-</p>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" height="5" />
+</div>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=adrcwy&bg_color=0D1117&color=FF1493&line=8A2BE2&point=00E5FF&area=true&hide_border=true" />
-</p>
+<!--=====================  STATS  =====================-->
+### <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" /> &nbsp;`05` &nbsp;telemetry
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adrcwy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" width="100%" height="4" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=adrcwy&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=00E5FF&text_color=C9D1D9&ring_color=8A2BE2" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrcwy&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=C9D1D9" />
 
-## /06 hubungi
+<img width="66%" src="https://streak-stats.demolab.com?user=adrcwy&hide_border=true&background=0D1117&stroke=8A2BE2&ring=FF1493&fire=39FF14&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" />
 
-<h3 align="center">Mari bangun system yang berguna</h3>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adrcwy&theme=react-dark&bg_color=0D1117&color=FF1493&line=00E5FF&point=39FF14&area=true&area_color=8A2BE2&hide_border=true" />
 
-<p align="center">
-  <a href="mailto:adrianwahyuseptianto1@gmail.com"><img src="https://img.shields.io/badge/adrianwahyuseptianto1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://adrianwahyuseptianto.vercel.app"><img src="https://img.shields.io/badge/adrianwahyuseptianto.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=adrcwy&theme=radical&no-frame=true&no-bg=true&row=1&column=4&title=Commits,Followers,Repositories,MultiLanguage&margin-w=10" />
 
-<p align="center">
-  <i>"Custom system rapi, dari request nyata."</i>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF1493,100:8A2BE2&height=140&section=footer&animation=fadeIn" width="100%" />
-</p>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/rainbow-line.gif" height="5" />
+</div>
+
+<!--=====================  FUN  =====================-->
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><b>☕ RANDOM DEV JOKE</b><br><br>
+<img width="400" src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=%230D1117&qColor=%23FF1493&aColor=%2300E5FF&textColor=%23C9D1D9" />
+</td>
+<td align="center"><b>✦ QUOTE OF THE DAY</b><br><br>
+<img width="400" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>&nbsp;🐍&nbsp; Contribution snake &nbsp;(butuh 1x setup GitHub Action)</b></summary>
+<br>
+<img src="https://raw.githubusercontent.com/adrcwy/adrcwy/output/snake.svg" alt="snake" />
+<br><i>Kalau kotak ini kosong, workflow snake belum dijalankan.</i>
+</details>
+
+</div>
+
+<!--=====================  CONTACT  =====================-->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=700&height=40&lines=MARI+BANGUN+SYSTEM+YANG+BERGUNA;PUNYA+IDE%3F+KIRIM+ALURNYA%2C+SAYA+BANGUN;INBOX+SELALU+TERBUKA" />
+
+<br>
+
+<a href="mailto:adrianwahyuseptianto1@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/adrian-wahyu-septianto"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://t.me/adrcwy"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://adrianwahyuseptianto.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" /></a>
+<img src="https://img.shields.io/badge/DISCORD-%40adrcwy-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" />
+
+<br><br>
+
+<i>“Custom system rapi, dari request nyata.”</i>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:39FF14,30:00E5FF,65:8A2BE2,100:FF1493&text=thanks%20for%20scrolling%20%E2%9C%A6&fontSize=26&fontColor=ffffff&fontAlignY=72&animation=fadeIn" />
+
+<!--
+
+   ██████╗ ██████╗  ██████╗██████╗ ███╗   ███╗██╗   ██╗
+   ██╔═══╝ ██╔══██╗██╔════╝██╔══██╗████╗ ████║╚██╗ ██╔╝
+   ██║  ███╗██████╔╝██║     ██████╔╝██╔████╔██║ ╚████╔╝
+   ╚██████╔╝██║  ██╗╚██████╗██║  ██╗██║╚██╔╝██║  ╚██╔╝
+    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝ ╚═╝ ╚═╝   ╚═╝
+
+   Kamu scroll sampai source code. Respect. ✦
+   Butuh custom system? adrianwahyuseptianto1@gmail.com
+
+-->
