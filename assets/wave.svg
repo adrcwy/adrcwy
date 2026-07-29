@@ -19,20 +19,14 @@
     <rect x="182" y="11" width="3" height="4" rx="1.5"><animate attributeName="height" values="4;11;4" dur="1.5s" begin="0.91s" repeatCount="indefinite"/><animate attributeName="y" values="11;8;11" dur="1.5s" begin="0.91s" repeatCount="indefinite"/></rect>
   </g>
 
-  <!-- the bar field repeats itself across the full width -->
-  <use href="#" />
-  <g fill="#30363d">
-    <rect x="196" y="12" width="804" height="1.4" rx="0.7" opacity=".55" />
-  </g>
-  <g fill="#58a6ff">
-    <rect y="11" width="38" height="3" rx="1.5" opacity=".9">
-      <animate attributeName="x" values="196;962;196" dur="8s" repeatCount="indefinite" />
-    </rect>
-  </g>
-  <g fill="#c9d1d9">
-    <circle cy="12.5" r="2.2">
-      <animate attributeName="cx" values="196;1000;196" dur="8s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite" />
-    </circle>
-  </g>
+  <rect x="196" y="12" width="804" height="1.4" rx="0.7" fill="#30363d" opacity=".55" />
+
+  <rect y="11" width="38" height="3" rx="1.5" fill="#58a6ff" opacity=".9">
+    <animate attributeName="x" values="196;962;196" dur="8s" repeatCount="indefinite" />
+  </rect>
+
+  <circle cy="12.5" r="2.2" fill="#c9d1d9">
+    <animate attributeName="cx" values="196;1000;196" dur="8s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite" />
+  </circle>
 </svg>
