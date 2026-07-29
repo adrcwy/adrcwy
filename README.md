@@ -118,34 +118,17 @@ with balance flow, inventory, and webhook top-ups.
 
 <img width="100%" src="https://raw.githubusercontent.com/adrcwy/adrcwy/main/assets/divider.svg" alt="" />
 
-<!-- ============ 03 · layered icon grid ============ -->
+<!-- ============ 03 · animated stack grid ============ -->
 
 <div align="center">
-<img src="https://img.shields.io/badge/DAILY_STACK-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" alt="Daily stack" />
-</div>
 
-<table>
-<tr>
-<td width="22%" align="right"><sub><b>LANGUAGES</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=ts,js,php&theme=dark" height="38" alt="" /> &nbsp;<sub>SQL · Lua</sub></td>
-</tr>
-<tr>
-<td width="22%" align="right"><sub><b>FRONTEND</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" height="38" alt="" /> &nbsp;<sub>React Native · Expo</sub></td>
-</tr>
-<tr>
-<td width="22%" align="right"><sub><b>BACKEND</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,laravel,socketio&theme=dark" height="38" alt="" /> &nbsp;<sub>REST · webhooks · workers</sub></td>
-</tr>
-<tr>
-<td width="22%" align="right"><sub><b>DATA</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase&theme=dark" height="38" alt="" /> &nbsp;<sub>CSV · Excel exports</sub></td>
-</tr>
-<tr>
-<td width="22%" align="right"><sub><b>DELIVERY</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=git,linux,vercel,postman&theme=dark" height="38" alt="" /> &nbsp;<sub>VPS · Vite</sub></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/DAILY_STACK-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" alt="Daily stack" />
+
+<br><br>
+
+<img width="94%" src="https://raw.githubusercontent.com/adrcwy/adrcwy/main/assets/stack.svg" alt="TypeScript, JavaScript, PHP, SQL, Lua, Next.js, React, Tailwind, React Native, Node, Express, Laravel, Socket.IO, MySQL, SQLite, MongoDB, Firebase, Git, Linux, Vercel, Postman, Vite" />
+
+</div>
 
 <img width="100%" src="https://raw.githubusercontent.com/adrcwy/adrcwy/main/assets/wave.svg" alt="" />
 
