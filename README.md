@@ -44,46 +44,58 @@ I care about clean data models, honest logging, and handoffs that don't break af
 <tr>
 <td width="33%" valign="top">
 
-**Internal tools**
+<samp>01</samp> &nbsp;**INTERNAL TOOLS**
 
-Operational dashboards, reporting surfaces, and monitoring built around an existing workflow.
+<sub>`dashboards` `reporting` `monitoring`</sub>
 
-</td>
-<td width="33%" valign="top">
-
-**Automation**
-
-Scheduled jobs, messaging flows, and spreadsheet exports that remove repetitive manual work.
+Operational surfaces built around a workflow that already exists — not a template forced on top of it.
 
 </td>
 <td width="33%" valign="top">
 
-**Data collection**
+<samp>02</samp> &nbsp;**AUTOMATION**
 
-Crawlers and structured datasets, including network-analysis exports ready for Gephi.
+<sub>`schedulers` `messaging` `exports`</sub>
+
+Scheduled jobs and messaging flows that delete repetitive manual steps from a working day.
+
+</td>
+<td width="33%" valign="top">
+
+<samp>03</samp> &nbsp;**DATA PIPELINES**
+
+<sub>`crawlers` `datasets` `analysis`</sub>
+
+Collection to clean export, ending in a file or graph someone can actually make decisions with.
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-**Web platforms**
+<samp>04</samp> &nbsp;**WEB PLATFORMS**
 
-Laravel and Next.js applications with secure headers, SEO utilities, and a clean asset pipeline.
+<sub>`laravel` `next.js` `seo`</sub>
 
-</td>
-<td width="33%" valign="top">
-
-**Cross-platform mobile**
-
-Expo / React Native apps backed by custom APIs and offline-tolerant local storage.
+Production web apps with secure headers, sitemap utilities, and an asset pipeline that stays fast.
 
 </td>
 <td width="33%" valign="top">
 
-**Bots &amp; integrations**
+<samp>05</samp> &nbsp;**MOBILE APPS**
 
-Discord commerce bots, webhooks, and service glue between tools that were never meant to talk.
+<sub>`expo` `react native` `offline`</sub>
+
+Cross-platform apps on custom APIs, tolerant of bad signal and messy field conditions.
+
+</td>
+<td width="33%" valign="top">
+
+<samp>06</samp> &nbsp;**BOTS & INTEGRATIONS**
+
+<sub>`discord` `webhooks` `glue`</sub>
+
+Service glue between tools that were never designed to talk to each other, plus commerce bots.
 
 </td>
 </tr>
@@ -127,62 +139,80 @@ Discord commerce bots, webhooks, and service glue between tools that were never 
 <tr>
 <td width="50%" valign="top">
 
-**Company Office Suite** <br>
-<sub>`EXPO` `REACT` `EXPRESS` `SQLITE`</sub>
+### Company Office Suite
 
-Mobile app plus web admin for office workflows: reporting, QR utilities, maps, exports, and sync.
+<sub>OPERATIONS — MOBILE + WEB ADMIN</sub>
 
-</td>
-<td width="50%" valign="top">
+One app for the field, one panel for the office. Reporting, QR utilities, maps, exports, and sync in a single flow.
 
-**Company Tools Hub** <br>
-<sub>`NODE` `SOCKET.IO` `AUTOMATION`</sub>
-
-Operations hub for procurement snapshots, sales logs, messaging automation, and scheduled jobs.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Twitter SNA Scraper** <br>
-<sub>`NODE` `EXPRESS` `CSV` `GEPHI`</sub>
-
-Crawler and dashboard for social network analysis, exporting nodes and edges for graph tooling.
+<sub>`Expo` `React` `Express` `SQLite`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**Auto Store v2** <br>
-<sub>`DISCORD.JS` `MONGODB` `EXPRESS`</sub>
+### Company Tools Hub
 
-Discord commerce bot with slash commands, balance flow, inventory, top-up webhooks, web admin.
+<sub>AUTOMATION — INTERNAL HUB</sub>
+
+Procurement snapshots, sales logs, and messaging automation running on schedule instead of on someone's memory.
+
+<sub>`Node.js` `Socket.IO` `Cron`</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Company Website** <br>
-<sub>`LARAVEL` `PHP` `TAILWIND` `VITE`</sub>
+### Twitter SNA Scraper
 
-Laravel platform with secure headers, sitemap utilities, and a crawler package for internal SEO.
+<sub>DATA — CRAWLER + DASHBOARD</sub>
+
+Collects conversations and turns them into node and edge exports that drop straight into graph tooling.
+
+<sub>`Node.js` `Express` `CSV` `Gephi`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**Proxy Seller Panel** <br>
-<sub>`NODE` `LINUX` `SHELL`</sub>
+### Auto Store v2
 
-VPS tooling and dashboard for provisioning, monitoring, and maintaining proxy nodes.
+<sub>COMMERCE — DISCORD BOT + PANEL</sub>
+
+Slash-command storefront with balance flow, inventory, top-up webhooks, and a web admin behind it.
+
+<sub>`Discord.js` `MongoDB` `Express`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Company Website
+
+<sub>WEB — LARAVEL PLATFORM</sub>
+
+Public site with secure headers, sitemap utilities, and an internal crawler package for SEO checks.
+
+<sub>`Laravel` `PHP` `Tailwind` `Vite`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Proxy Seller Panel
+
+<sub>INFRASTRUCTURE — VPS TOOLING</sub>
+
+Provisioning, monitoring, and maintenance for proxy nodes, wrapped in a dashboard instead of raw shell access.
+
+<sub>`Node.js` `Linux` `Shell`</sub>
 
 </td>
 </tr>
 </table>
 
-Live demos and case details → **[adrianwahyuseptianto.vercel.app](https://adrianwahyuseptianto.vercel.app)** &nbsp;·&nbsp; source → **[developer-portfolio](https://github.com/adrcwy/developer-portfolio)**
-
 <div align="center">
+
+<sub>Live demos and case details → <a href="https://adrianwahyuseptianto.vercel.app"><b>adrianwahyuseptianto.vercel.app</b></a> &nbsp;·&nbsp; source → <a href="https://github.com/adrcwy/developer-portfolio"><b>developer-portfolio</b></a></sub>
 
 <img width="100%" src="https://raw.githubusercontent.com/adrcwy/adrcwy/main/assets/divider.svg" alt="" />
 
